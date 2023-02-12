@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607764097 source:d:\codeblocks\ca22correct\main.c
+	<stdio.h>
+	<stdlib.h>
+

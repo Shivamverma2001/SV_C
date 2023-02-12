@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609496818 source:d:\codeblocks\randomnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

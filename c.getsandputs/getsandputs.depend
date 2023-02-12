@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608288922 source:d:\codeblocks\getsandputs\main.c
+	<stdio.h>
+	<stdlib.h>
+

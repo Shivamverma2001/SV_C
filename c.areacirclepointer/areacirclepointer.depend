@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607923303 source:d:\codeblocks\areacirclepointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605511166 source:d:\codeblocks\getsputs\main.c
+	<stdio.h>
+	<stdlib.h>
+

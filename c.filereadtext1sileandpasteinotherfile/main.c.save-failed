@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    FILE *ptr1,*ptr2;
+    char c,d;
+    ptr1=fopen("getcdemo.txt","r");
+    c=fgetc(ptr1);
+    while(c!=EOF)
+    {
+        printf("%c",c);
+        c=fgetc(ptr1);
+    }
+    fclose(ptr1);
+    ptr2=fopen("putcdemo.txt","w");
+    while(c!=EOF)
+    {
+        fprintf(ptr,"%c",c);
+        c=fgetc(ptr2);
+    }
+    fclose(ptr2);
+
+}

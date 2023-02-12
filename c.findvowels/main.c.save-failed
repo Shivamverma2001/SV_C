@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  char s1[100],n=0;
+   printf("enter the string 1 value");
+   gets(s1);
+
+    for(int i=0;s1[i]!='\0';i++)
+    {
+        if(s1[i]=='a'||s1[i]=='e'||s1[i]=='i'||s1[i]=='0'||s1[i]=='u'||s1[i]=='A'||s1[i]=='E'||s1[i]=='I'||s1[i]=='O'||s1[i]=='U'||)
+            n=n+1;
+        else
+            break;
+    }
+    printf("vowels are %d",n);
+}

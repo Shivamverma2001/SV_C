@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608534251 source:d:\codeblocks\joining2strings\main.c
+	<stdio.h>
+	<string.h>
+

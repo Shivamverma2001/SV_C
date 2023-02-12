@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+ FILE *ptr;
+ int num;
+ printf("enter the integer value of which you want the multiplication table\n");
+ scanf("%d",&num);
+ ptr=fopen("table.txt","w");
+ for(int i=1;i<10;i++)
+ {
+     printf("%d X %d = %d",num,i,num*i);
+ }
+ fclose(ptr);
+    return 0;
+}

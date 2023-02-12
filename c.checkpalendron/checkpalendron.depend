@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608967267 source:d:\codeblocks\checkpalendron\main.c
+	<stdio.h>
+	<stdlib.h>
+

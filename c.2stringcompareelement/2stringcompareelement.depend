@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608534930 source:d:\codeblocks\2stringcompareelement\main.c
+	<stdio.h>
+	<string.h>
+

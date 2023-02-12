@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+   int a=10,b=20;
+   printf("value of a=%d,b=%d",a,b);
+
+}
+void swap(int a,int b)//defination
+{
+    int temp;
+    temp=a;
+    a=b;
+    b=temp;
+    printf("in swap function value of a=%d,b=%d",a,b);
+}

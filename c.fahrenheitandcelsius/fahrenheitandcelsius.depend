@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607753722 source:d:\codeblocks\fahrenheitandcelsius\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a[5]={2,3,4,5,6};
+    int *p1,*p2;//declare
+    p1=a;
+    p1++;//post increment
+    printf("%d\n",*p1);//1st index value 3
+    p1--;//post decrement
+    printf("%d\n",*p1);//
+    p1=p1+2;//addition in index
+    printf("%d\n",*p1);
+    p1=p1-1;//subtraction in index
+    printf("%d\n",*p1);
+    p2=&a[4];
+    printf("%d\n",*p2);//show 4th index value is 6
+    printf("%d\n",p2-p1);
+}
+//IMPORTANT:
+  //  array=&array[0];
+//23456
+//01234

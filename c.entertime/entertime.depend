@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604410048 source:d:\codeblocks\entertime\main.c
+	<stdio.h>
+	<stdlib.h>
+

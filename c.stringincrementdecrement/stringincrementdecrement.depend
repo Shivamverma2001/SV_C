@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609133856 source:d:\codeblocks\stringincrementdecrement\main.c
+	<stdio.h>
+	<stdlib.h>
+

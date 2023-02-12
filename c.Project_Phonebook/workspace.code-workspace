@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Documents\\All document\\DSA"
+		},
+		{
+			"path": "..\\..\\Documents\\All document\\DBMS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Documents\\All document\\the web developer bootcamp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}

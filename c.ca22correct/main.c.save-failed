@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void reverse(int *a)
+{
+ for(int b=0;*b>=0;)
+  {
+      b=*a%10;
+    printf("the correct number is %d",b);
+    *a=*a/10;
+  }
+}
+int main()
+{
+    int a;
+    printf("enter the incorrect number");
+    scanf("%d",&a);
+    reverse(a);
+}

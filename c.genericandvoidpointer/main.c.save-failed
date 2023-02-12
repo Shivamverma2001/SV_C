@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+   int a=7;
+   char b='a';
+   void *p;//declare (void pointer)
+   p=&a;
+   printf("the dereference of the pointer %d",*(int*)p);
+   p=&a;
+   printf("the dereferencing of the pointer %c",*(char*)p);
+}

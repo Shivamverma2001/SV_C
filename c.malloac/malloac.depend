@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608008250 source:d:\codeblocks\malloac\main.c
+	<stdio.h>
+	<stdlib.h>
+
